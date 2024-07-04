@@ -5,7 +5,7 @@ This Python script uses threading and socket programming to scan ports on a spec
 ## Usage
 
 1. **Clone the repository:**
-git clone https://github.com/your_username/your_repository.git
+git clone https://github.com/saksham342/port_scanner.git
 
 2. **Navigate to the directory:**
 cd your_repository
